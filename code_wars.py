@@ -1,3 +1,10 @@
+# Elijah Khin
+# workbiscap@gmail.com
+
+# Description:
+# In this Kata, I will be given a number and my task will be to return the nearest prime number.
+
+
 import time
 
 

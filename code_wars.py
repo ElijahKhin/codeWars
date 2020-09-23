@@ -15,7 +15,7 @@ def solve(n):
         return 3
 
     for pls in range(n - 1, 1, -1):  # 'pls' - prime in left side
-        for divider in range(2, round(pls / 2) + 1):
+        for divider in range(2, (round(pls / 2) + 1)):
             if pls % divider == 0:
                 break
         else:
@@ -31,11 +31,15 @@ def solve(n):
             lst.append(n+add)
             break
 
-    print(lst)
+    if n - lst[0] > lst[1] - n:
+        return lst[1]
+    else:
+        return lst[0]
 
 
-solve(8000000)
+print(solve(8000000))
 
 
 print(time.time() - start_time, 'new_alg')
+
 

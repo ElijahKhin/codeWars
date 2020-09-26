@@ -1,5 +1,5 @@
-# Elijah Khin
-# workbiscap@gmail.com
+# Author: Elijah Khin
+# Email:  workbiscap@gmail.com
 
 # Description:
 # Complete the method/function so that it converts dash/underscore

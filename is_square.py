@@ -1,5 +1,5 @@
-# Elijah Khin
-# workbiscap@gmail.com
+# Author: Elijah Khin
+# Email:  workbiscap@gmail.com
 
 # Description:
 # I will be given a number and then I'll must answer a question: Is it square number?

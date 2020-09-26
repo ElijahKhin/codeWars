@@ -1,3 +1,10 @@
+# Author: Elijah Khin
+# Email:  workbiscap@gmail.com
+
+# Description:
+# Your task is to write a function maskify, which changes all but the last four characters into '#'.
+
+
 def maskify(cc):
     if cc == '':
         return ''

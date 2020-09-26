@@ -1,5 +1,5 @@
-# Elijah Khin
-# workbiscap@gmail.com
+# Author: Elijah Khin
+# Email:  workbiscap@gmail.com
 
 # Description:
 # My task is to return a min word in input string.
